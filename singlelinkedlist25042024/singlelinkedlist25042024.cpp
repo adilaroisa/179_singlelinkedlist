@@ -32,6 +32,8 @@ void addNode() {
 		return;
 	}
 
+	Node* previous = START;
+
 
 	int main()
 {
